@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/prasantdev/localdb.js.git"
+    "url": "git+https://github.com/prasantdev/localdata.js.git"
   },
   "keywords": [
-    "localdb",
+    "localdata",
     "db",
     "database",
     "js",
@@ -20,7 +20,7 @@
   "author": "prasant",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/prasantdev/localdb.js/issues"
+    "url": "https://github.com/prasantdev/localdata.js/issues"
   },
-  "homepage": "https://github.com/prasantdev/localdb.js#readme"
+  "homepage": "https://github.com/prasantdev/localdata.js#readme"
 }
