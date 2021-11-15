@@ -1,5 +1,5 @@
 {
-  "name": "localdb.js",
+  "name": "localdata.js",
   "version": "0.0.1",
   "description": "Local database",
   "main": "index.js",
